@@ -1,6 +1,7 @@
-# Tree
+# Other Courses Projects
 Courses projects in LSU
 
 1. BST v. AVL
+2. CPU Scheduler with Heap algorithms
 
-March 2017
+Feb. to Mar. 2017
