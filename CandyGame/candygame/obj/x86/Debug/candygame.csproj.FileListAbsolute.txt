@@ -1,0 +1,75 @@
+C:\Users\Shing\Desktop\candygame\candygame\bin\Debug\candygame.exe
+C:\Users\Shing\Desktop\candygame\candygame\bin\Debug\candygame.pdb
+C:\Users\Shing\Desktop\candygame\candygame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shing\Desktop\candygame\candygame\obj\x86\Debug\candygame.Form1.resources
+C:\Users\Shing\Desktop\candygame\candygame\obj\x86\Debug\candygame.Properties.Resources.resources
+C:\Users\Shing\Desktop\candygame\candygame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shing\Desktop\candygame\candygame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shing\Desktop\candygame\candygame\obj\x86\Debug\candygame.exe
+C:\Users\Shing\Desktop\candygame\candygame\obj\x86\Debug\candygame.pdb
+C:\Users\chihung\Desktop\candygame\candygame\obj\x86\Debug\candygame.exe
+C:\Users\chihung\Desktop\candygame\candygame\obj\x86\Debug\candygame.csprojResolveAssemblyReference.cache
+C:\Users\chihung\Desktop\candygame\candygame\obj\x86\Debug\candygame.Form1.resources
+C:\Users\chihung\Desktop\candygame\candygame\obj\x86\Debug\candygame.Properties.Resources.resources
+C:\Users\chihung\Desktop\candygame\candygame\obj\x86\Debug\candygame.csproj.GenerateResource.Cache
+C:\Users\chihung\Desktop\candygame\candygame\bin\Debug\candygame.exe
+C:\Users\chihung\Desktop\candygame\candygame\bin\Debug\candygame.pdb
+C:\Users\chihung\Desktop\candygame\candygame\obj\x86\Debug\candygame.pdb
+C:\Users\chihung\Desktop\candygame\candygame\obj\x86\Debug\candygame.Form2.resources
+C:\Users\Shing\Desktop\candygame (1)\candygame\candygame\obj\x86\Debug\candygame.exe
+C:\Users\Shing\Desktop\candygame (1)\candygame\candygame\obj\x86\Debug\candygame.pdb
+C:\Users\Shing\Desktop\candygame (1)\candygame\candygame\bin\Debug\candygame.exe
+C:\Users\Shing\Desktop\candygame (1)\candygame\candygame\bin\Debug\candygame.pdb
+C:\Users\Shing\Desktop\candygame (1)\candygame\candygame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shing\Desktop\candygame (1)\candygame\candygame\obj\x86\Debug\candygame.Form1.resources
+C:\Users\Shing\Desktop\candygame (1)\candygame\candygame\obj\x86\Debug\candygame.Form2.resources
+C:\Users\Shing\Desktop\candygame (1)\candygame\candygame\obj\x86\Debug\candygame.Properties.Resources.resources
+C:\Users\Shing\Desktop\candygame (1)\candygame\candygame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shing\Desktop\candygame (1)\candygame\candygame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\chihung\Desktop\作業\candygame\candygame\bin\Debug\candygame.exe
+C:\Users\chihung\Desktop\作業\candygame\candygame\bin\Debug\candygame.pdb
+C:\Users\chihung\Desktop\作業\candygame\candygame\obj\x86\Debug\candygame.Form1.resources
+C:\Users\chihung\Desktop\作業\candygame\candygame\obj\x86\Debug\candygame.Form2.resources
+C:\Users\chihung\Desktop\作業\candygame\candygame\obj\x86\Debug\candygame.Properties.Resources.resources
+C:\Users\chihung\Desktop\作業\candygame\candygame\obj\x86\Debug\candygame.csproj.GenerateResource.Cache
+C:\Users\chihung\Desktop\作業\candygame\candygame\obj\x86\Debug\candygame.exe
+C:\Users\chihung\Desktop\作業\candygame\candygame\obj\x86\Debug\candygame.pdb
+C:\Users\chihung\Desktop\作業\candygame\candygame\obj\x86\Debug\candygame.csprojResolveAssemblyReference.cache
+C:\Users\chihung\Desktop\新增資料夾\candygame\candygame\obj\x86\Debug\candygame.exe
+C:\Users\chihung\Desktop\新增資料夾\candygame\candygame\obj\x86\Debug\candygame.pdb
+C:\Users\chihung\Desktop\新增資料夾\candygame\candygame\bin\Debug\candygame.exe
+C:\Users\chihung\Desktop\新增資料夾\candygame\candygame\bin\Debug\candygame.pdb
+C:\Users\chihung\Desktop\新增資料夾\candygame\candygame\obj\x86\Debug\candygame.csprojResolveAssemblyReference.cache
+C:\Users\chihung\Desktop\新增資料夾\candygame\candygame\obj\x86\Debug\candygame.Form1.resources
+C:\Users\chihung\Desktop\新增資料夾\candygame\candygame\obj\x86\Debug\candygame.Form2.resources
+C:\Users\chihung\Desktop\新增資料夾\candygame\candygame\obj\x86\Debug\candygame.Properties.Resources.resources
+C:\Users\chihung\Desktop\新增資料夾\candygame\candygame\obj\x86\Debug\candygame.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.exe
+C:\Users\User\Desktop\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.pdb
+C:\Users\User\Desktop\candygame_B\candygame_B\candygame\bin\Debug\candygame.exe
+C:\Users\User\Desktop\candygame_B\candygame_B\candygame\bin\Debug\candygame.pdb
+C:\Users\User\Desktop\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.Form1.resources
+C:\Users\User\Desktop\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.Form2.resources
+C:\Users\User\Desktop\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.Properties.Resources.resources
+C:\Users\User\Desktop\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.csproj.GenerateResource.Cache
+C:\Users\Shing\Downloads\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.exe
+C:\Users\Shing\Downloads\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.pdb
+C:\Users\Shing\Downloads\candygame_B (1)\candygame_B\candygame_B\candygame\bin\Debug\candygame.exe
+C:\Users\Shing\Downloads\candygame_B (1)\candygame_B\candygame_B\candygame\bin\Debug\candygame.pdb
+C:\Users\Shing\Downloads\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shing\Downloads\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.Form1.resources
+C:\Users\Shing\Downloads\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.Form2.resources
+C:\Users\Shing\Downloads\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.Properties.Resources.resources
+C:\Users\Shing\Downloads\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shing\Downloads\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shing\Desktop\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.exe
+C:\Users\Shing\Desktop\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.pdb
+C:\Users\Shing\Desktop\candygame_B (1)\candygame_B\candygame_B\candygame\bin\Debug\candygame.exe
+C:\Users\Shing\Desktop\candygame_B (1)\candygame_B\candygame_B\candygame\bin\Debug\candygame.pdb
+C:\Users\Shing\Desktop\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shing\Desktop\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.Form1.resources
+C:\Users\Shing\Desktop\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.Form2.resources
+C:\Users\Shing\Desktop\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\candygame.Properties.Resources.resources
+C:\Users\Shing\Desktop\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shing\Desktop\candygame_B (1)\candygame_B\candygame_B\candygame\obj\x86\Debug\GenerateResource.write.1.tlog

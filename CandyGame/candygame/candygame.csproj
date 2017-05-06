@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{505C123E-A79C-40B9-BC1D-40E78B847AC1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>candygame</RootNamespace>
+    <AssemblyName>candygame</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\castle.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\cloud.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\newsky.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\start.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\rule.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\set.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\rule.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\set.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\cir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\sky.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\good.png" />
+    <None Include="bin\Debug\bonous.wav" />
+    <None Include="bin\Debug\music.wav" />
+    <None Include="bin\Debug\bonous_pfm.wav" />
+    <None Include="bin\Debug\mario1.wav" />
+    <None Include="candy\boom13.png" />
+    <None Include="candy\candy14.png" />
+    <None Include="candy\candy15.png" />
+    <None Include="candy\candy16.png" />
+    <None Include="bin\Debug\mario.wav" />
+    <None Include="bin\Debug\mario piano.wav" />
+    <Content Include="images\ag.png" />
+    <Content Include="images\again.png" />
+    <None Include="images\gameover.png" />
+    <None Include="images\cloudd.png" />
+    <None Include="images\booo.png" />
+    <Content Include="images\die.png" />
+    <None Include="candy\candy12.png" />
+    <None Include="candy\getgirl.gif" />
+    <None Include="candy\catchgirl.gif" />
+    <None Include="candy\candy9.png" />
+    <None Include="candy\candy8.png" />
+    <None Include="candy\candy7.png" />
+    <None Include="candy\candy6.png" />
+    <None Include="candy\candy5.png" />
+    <None Include="candy\candy4.png" />
+    <None Include="candy\candy3.png" />
+    <None Include="candy\candy2.png" />
+    <None Include="candy\candy1.png" />
+    <None Include="candy\candy10.png" />
+    <None Include="candy\boomgirl.gif" />
+    <Content Include="bonous\background.png" />
+    <Content Include="bonous\catchgirl_angel.gif" />
+    <Content Include="bonous\money1.png" />
+    <Content Include="bonous\money2.png" />
+    <Content Include="bonous\money3.png" />
+    <Content Include="candy\candy11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
