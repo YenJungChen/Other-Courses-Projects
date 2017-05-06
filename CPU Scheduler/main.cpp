@@ -1,6 +1,6 @@
 /**
  * A simple non-preemptive CPU Scheduler simulator
- * @author Your Name
+ * @author YJC
  * @since date this file was last modified
  */
 
