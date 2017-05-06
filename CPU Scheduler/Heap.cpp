@@ -1,11 +1,3 @@
-
-/**
- * Implementation for the Heap<E> class
- * @author Duncan
- * @since 99-99-9999
- * @see Heap.h
- */
-
 #include "Heap.h"
 
 using namespace std;
