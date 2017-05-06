@@ -1,7 +1,7 @@
 /**
 * Models an binary search tree.
 * @param <E> data type of elements of the tree
-* @author Duncan, YOUR NAME
+* @author Duncan, YJC
 * @since 99-99-9999
 * @see BSTree.h
 */
@@ -63,7 +63,7 @@ void BSTree<E>::insert(E item)
 		if (tmp->data == item)
 		{ /* Key already exists. */
 			tmp->data = item;
-			delete newnode; /* don¡¦t need it */
+			delete newnode; /* donÂ¡Â¦t need it */
 			return;
 		}
 		else if (tmp->data > item)
