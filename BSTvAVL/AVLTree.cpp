@@ -1,7 +1,7 @@
 /**
 * Models an AVL tree.
 * @param <E> data type of elements of the tree
-* @author Duncan, YOUR NAME
+* @author Duncan, YJC
 * @since 99-99-9999
 * @see AVLTree.h
 */
